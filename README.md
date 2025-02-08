@@ -52,23 +52,6 @@ Here are some previews of the website:
 
 ---
 
-## 🎬 Demo Video  
-You can watch a short demo of the portfolio below:  
-
-![Demo GIF](https://your-image-url.com/demo.gif)  
-
----
-
-## 🚀 Getting Started  
-
-Want to run this project locally? Follow these steps:  
-
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/AbdullahAlFahad9/Fahad-Portfolio.git
-cd Fahad-Portfolio
-
-
 ## 📬 Contact Me  
 📧 Email: abdulahalfahad9@gmail.com
 🔗 LinkedIn: [Abdullah Al Fahad](https://www.linkedin.com/in/abdullah-al-fahad-26569b1b6)  
@@ -81,4 +64,23 @@ Want to improve this portfolio? Feel free to fork and create a pull request!
 
 ---
 
+
+## 🎬 Demo Video  
+You can watch a short demo of the portfolio below:  
+
+![Demo GIF](https://your-image-url.com/demo.gif)  
+
+---
+
+
 ### ⭐ Don't forget to star the repo if you like it! ⭐
+
+
+## 🚀 Getting Started  
+
+Want to run this project locally? Follow these steps:  
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/AbdullahAlFahad9/Fahad-Portfolio.git
+cd Fahad-Portfolio
