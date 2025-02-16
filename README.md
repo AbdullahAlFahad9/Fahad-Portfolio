@@ -7,7 +7,8 @@ This portfolio showcases my **skills, projects, and experiences** in web develop
 
 📌 **GitHub Repository:** [Fahad-Portfolio](https://github.com/AbdullahAlFahad9/Fahad-Portfolio)  
 
-![Portfolio Preview](https://your-image-url.com/demo.gif)
+[![Portfolio Preview](https://img.youtube.com/vi/nkcSBlHVGoc/maxresdefault.jpg)](https://youtu.be/nkcSBlHVGoc?feature=shared)
+
 
 ---
 
@@ -36,28 +37,33 @@ It highlights my **projects, skills, and ways to contact me** in an elegant and 
 | **Bootstrap** | Responsive Design |
 | **GitHub Pages** | Free Hosting |
 
----
-
-## 📸 Screenshots  
-Here are some previews of the website:  
-
-🔹 **Homepage**  
-![Homepage](https://your-image-url.com/homepage.png)  
-
-🔹 **Projects Section**  
-![Projects](https://your-image-url.com/projects.png)  
-
-🔹 **Contact Form**  
-![Contact](https://your-image-url.com/contact.png)  
+ 
 
 ---
+
+## 📬 Contact Me  
+📧 Email: abdulahalfahad9@gmail.com
+🔗 LinkedIn: [Abdullah Al Fahad](https://www.linkedin.com/in/abdullah-al-fahad-26569b1b6)  
+🐦 Twitter: [Abdullah Al Fahad](https://x.com/abdulahalfahad9)  
+
+---
+
+## 💡 Contributing  
+Want to improve this portfolio? Feel free to fork and create a pull request!  
+
+---
+
 
 ## 🎬 Demo Video  
 You can watch a short demo of the portfolio below:  
 
-![Demo GIF](https://your-image-url.com/demo.gif)  
+[![Portfolio Preview](https://img.youtube.com/vi/nkcSBlHVGoc/maxresdefault.jpg)](https://youtu.be/nkcSBlHVGoc?feature=shared)
 
 ---
+
+
+### ⭐ Don't forget to star the repo if you like it! ⭐
+
 
 ## 🚀 Getting Started  
 
