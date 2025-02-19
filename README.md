@@ -7,7 +7,6 @@ This portfolio showcases my **skills, projects, and experiences** in web develop
 
 📌 **GitHub Repository:** [Fahad-Portfolio](https://github.com/AbdullahAlFahad9/Fahad-Portfolio)  
 
-
 [![Portfolio Preview](https://img.youtube.com/vi/nkcSBlHVGoc/maxresdefault.jpg)](https://youtu.be/nkcSBlHVGoc?feature=shared)
 
 
@@ -37,7 +36,7 @@ It highlights my **projects, skills, and ways to contact me** in an elegant and 
 | **JavaScript** | Interactive Features |
 | **Bootstrap** | Responsive Design |
 | **GitHub Pages** | Free Hosting |
-<<<<<<< HEAD
+
  
 
 ---
